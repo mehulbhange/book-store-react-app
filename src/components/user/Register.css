@@ -1,0 +1,7 @@
+.registerBox{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid brown;
+    padding: 3%;
+    margin-top  : 5%;
+}
